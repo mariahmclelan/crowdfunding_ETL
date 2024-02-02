@@ -1,7 +1,7 @@
 # crowdfunding_ETL
 
 ### Team Memmbers:
-Kelsey Kraft
+Kelsey Kraft and
 Mariah McLelan
 
 ### Project Details:
