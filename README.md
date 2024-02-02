@@ -4,7 +4,7 @@
 Kelsey Kraft
 Mariah McLelan
 
-## Project Details:
+### Project Details:
 For this project we built an ETL pipeline using Pandas to analyze crowdfunding data . Extracting data from excel we create four databases. After we had created our databases, we worked on cleaning the data by renaming columns, changing data formats, and sorting the data. Once we had our clean dataframes we exported them as CSVs. With our CSVs we created an ERD for each of our tables in the CSVs. Using the ERD we created a table scheme to create a corresponding SQL database.
 
 ### References
